@@ -23,7 +23,7 @@ const SEO = ({ description, lang, meta, title }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const ogImageUrl = site.siteMetadata.siteUrl + ogImageDefault
+  const ogImageUrl = "https://www.flickr.com/photos/193646454@N08/51344821666/in/dateposted-public/"
 
   return (
     <Helmet
