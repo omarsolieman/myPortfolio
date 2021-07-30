@@ -1,22 +1,12 @@
-# 🚨
-
-> **This repository is no longer maintained.** I decided to rebuild the portfolio template as a Gatsby Theme which makes it easier to update. Please use this Starter project instead: **[Gatsby Starter Portfolio Minimal Theme](https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme)**
-
-# Gatsby Starter Portfolio Minimal
 
 #### A modern one-page portfolio with a clean yet expressive design.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/16b36180-0897-40c5-925c-fefa0232555c/deploy-status)](https://app.netlify.com/sites/gatsby-starter-portfolio-minimal/deploys)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/39eabf01-a049-4964-9a68-74e18e10cb34/deploy-status)](https://app.netlify.com/sites/omarsolieman/deploys)]
 
 Portfolio Minimal is a Gatsby Starter. Starters are boilerplate projects that can be used to set up new sites effortless. With this starter, you can create a modern one-page portfolio within minutes.
 
 Just install the starter, add your content, and there you go!
 
 <a href="#sections">Sections</a> · <a href="#features">Features</a> · <a href="#how-to-start">How to Start</a> · <a href="#edit-content">Edit Content</a> · <a href="#edit-theme">Edit Theme</a> · <a href="#edit-page-structure">Edit Page Structure</a> · <a href="#feedback">Feedback</a>
-
-<a href="https://gatsby-starter-portfolio-minimal.netlify.app/" target="_blank"><strong>>> LIVE DEMO</strong></a>
-
-<a href="https://konstantin.digital/" target="_blank"><strong>>> LIVE DEMO (with Splash Screen and Cookie Bar)</strong></a>
 
 **New Features:** 🌛 Dark Mode · 🪟 Splash Screen · 🍪 Cookie Consent Bar
 
@@ -36,7 +26,6 @@ The starter has predefined sections as well as a template that you can use to cr
 2. Interests/Skills
 3. Projects
 4. Contact me
-5. Medium articles
 
 ---
 
@@ -70,8 +59,6 @@ The starter is designed with a mobile-first approach and looks perfect on small 
 
 In case you are a writer on Medium, the starter has a easy to use Medium integration that allows you to feature your latest articles.
 
-To see all features in action, have a look at the <a href="https://gatsby-starter-portfolio-minimal.netlify.app/" target="_blank"><strong>live demo</strong></a>.
-
 ---
 
 ## How to Start
@@ -88,7 +75,7 @@ With Portfolio Minimal, you get up and running in just a few minutes.
 2. **Create a new Gatsby site with the Portfolio Minimal starter.**
 
    ```
-   gatsby new portfolio-minimal https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal
+   gatsby new portfolio-minimal https://github.com/omarsolieman/myPortfolio
    ```
 
 3. **Start the site in `develop` mode.**
@@ -161,24 +148,8 @@ If you want to add your own custom sections, there is a section template you can
 
 ---
 
-## Feedback
-
-Designing and building a portfolio from scratch can be tough. To inspire you and provide you a foundation to build upon, I've decided to publish [my personal website](https://konstantin.digital) as a Gatsby Starter. This boilerplate project should motivate you to build your own awesome portfolio with Gatsby.
-
-I always appreciate feedback, so share your thoughts and suggestions with me: [mail@konstantin.digital](mailto:mail@konstantin.digital)
-
-If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
-
-Thanks a lot for using this starter! 💪
-
-<a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-Konstantin Münster – [konstantin.digital](https://konstantin.digital)
-
----
-
 ## License
 
-Distributed under the [MIT](http://showalicense.com/?fullname=Konstantin+M%C3%BCnster&year=2019#license-mit) license.
+Distributed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 See `LICENSE` for more information.
