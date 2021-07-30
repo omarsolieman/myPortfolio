@@ -5,7 +5,7 @@ module.exports = {
   siteShortTitle: "Omar", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "Omar Solieman's personal portfolio.",
-  siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
+  siteUrl: "https://omardev.tk/",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "Portfolio", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
