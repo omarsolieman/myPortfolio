@@ -99,7 +99,7 @@ module.exports = {
       useFileName: false,
       name: "Resume",
       fileName: "OmarMedhat.pdf", // the file has to be placed inside the static folder at the root level
-      url: "https://pdfhost.io/v/RSqbFOQZP_Omar_Medhat", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
+      url: "https://pdfhost.io/v/mrG1eQuC8_Omar_Medhat", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
   },
   footerLinks: [
