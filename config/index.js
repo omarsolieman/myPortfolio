@@ -62,7 +62,7 @@ module.exports = {
     },
     {
       name: "Blog",
-      url: "https://introve.tk/",
+      url: "https://introve.netlify.com/",
     },
     {
       name: "Github",
@@ -98,8 +98,8 @@ module.exports = {
     button: {
       useFileName: false,
       name: "Resume",
-      fileName: "OmarSolieman.pdf", // the file has to be placed inside the static folder at the root level
-      url: "https://pdfhost.io/v/2SuFbr.hI_Resume.pdf", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
+      fileName: "OmarMedhat.pdf", // the file has to be placed inside the static folder at the root level
+      url: "https://pdfhost.io/v/YfP9Xmnbs_Omar_Medhat", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
   },
   footerLinks: [
